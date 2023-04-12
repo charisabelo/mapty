@@ -36,5 +36,5 @@ if (navigator.geolocation) {
       alert("Couldn't get your position.");
     }
   );
-  console.log('char');
+  console.log('charisse');
 }
